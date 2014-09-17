@@ -5,6 +5,6 @@ Basic request logger.
 ---------------------------
 
 1. Create "logs" folder in directory. 
-2. Do ```sh 
+2. Do ```javascript 
 npm install ``` to do installation.
 3. You will see logs on console as well as in **logs** directory
